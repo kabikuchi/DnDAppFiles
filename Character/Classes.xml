@@ -773,7 +773,7 @@
                 <text>Barbarians who draw on their ancestral guardians can better fight to protect their tribes and their allies. In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors’ deeds. These tattoos tell sagas of victories against terrible monsters and other fearsome rivals. </text>
             </feature>
             <feature optional="YES">
-                <name>Path of the Ancestral Guardian: Ancestral Protectors (XGtE)</name>
+                <name>Path of the Ancestral Guardian: Ancestral Protectors</name>
                 <text>Starting when you choose this path at 3rd level, spectral warriors appear when you enter your rage. While you’re raging, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has disadvantage on any attack roll that isn’t against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage dealt by the attack. The effect on the target ends early if your rage ends.</text>
             </feature>
             <feature optional="YES">
@@ -782,7 +782,7 @@
                 <text>Storm heralds are typically elite champions who train alongside druids, rangers, and others sworn to protect nature. Other storm heralds hone their craft in lodges in regions wracked by storms, in the frozen reaches at the world’s end, or deep in the hottest deserts.</text>
             </feature>
             <feature optional="YES">
-                <name>Path of the Storm Herald: Storm Aura (XGtE)</name>
+                <name>Path of the Storm Herald: Storm Aura</name>
                 <text>Starting at 3rd level, you emanate a stormy, magical aura while you rage. The aura extends 10 feet from you in every direction, but not through total cover.</text>
                 <text>Your aura has an effect that activates when you enter your rage, and you can activate the effect again on each of your turns as a bonus action. Choose desert, sea, or tundra. Your aura’s effect depends on that chosen environment, as detailed below. You can change your environment choice whenever you gain a level in this class.</text>
                 <text>If your aura’s effects require a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.</text>
@@ -799,23 +799,23 @@
                 <text> A variety of gods across the worlds of D&amp;D inspire their followers to embrace this path. Tempus from the Forgotten Realms and Hextor and Erythnul of Greyhawk are all prime examples. In general, the gods who inspire zealots are deities of combat, destruction, and violence. Not all are evil, but few are good.</text>
             </feature>
             <feature optional="YES">
-                <name>Path of the Zealot: Divine Fury (XGtE)</name>
+                <name>Path of the Zealot: Divine Fury</name>
                 <text>Starting when you choose this path at 3rd level, you can channel divine fury into your weapon strikes. While you’re raging, the first creature you hit on each of your turns with a weapon attack takes extra damage equal to 1d6 + half your barbarian level. The extra damage is necrotic or radiant; you choose the type of damage when you gain this feature.</text>
             </feature>
             <feature optional="YES">
-                <name>Path of the Zealot: Warrior of the Gods (XGtE)</name>
+                <name>Path of the Zealot: Warrior of the Gods</name>
                 <text>At 3rd level, your soul is marked for endless battle. If a spell, such as raise dead, has the sole effect of restoring you to life (but not undeath), the caster doesn’t need material components to cast the spell on you.</text>
             </feature>
         </autolevel>
         <autolevel level="6">
             <feature optional="YES">
-                <name>Path of the Ancestral Guardian: Spirit Shield (XGtE)</name>
+                <name>Path of the Ancestral Guardian: Spirit Shield</name>
                 <text>Beginning at 6th level, the guardian spirits that aid you can provide supernatural protection to those you defend. If you are raging and another creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by 2d6.</text>
                 <text />
                 <text>When you reach certain levels in this class, you can reduce the damage by more: by 3d6 at 10th level and by 4d6 at 14th level. </text>
             </feature>
             <feature optional="YES">
-                <name>Path of the Storm Herald: Storm Soul (XGtE)</name>
+                <name>Path of the Storm Herald: Storm Soul</name>
                 <text>At 6th level, the storm grants you benefits even when your aura isn’t active. The benefits are based on the environment you chose for your Storm Aura.</text>
                 <text />
                 <text>Desert: You gain resistance to fire damage, and you don’t suffer the effects of extreme heat, as described in the Dungeon Master’s Guide. Moreover, as an action, you can touch a flammable object that isn’t being worn or carried by anyone else and set it on fire.</text>
@@ -825,33 +825,33 @@
                 <text>Tundra: You gain resistance to cold damage, and you don’t suffer the effects of extreme cold, as described in the Dungeon Master’s Guide. Moreover, as an action, you can touch water and turn a 5-foot cube of it into ice, which melts after 1 minute. This action fails if a creature is in the cube.</text>
             </feature>
             <feature optional="YES">
-                <name>Path of the Zealot: Fanatical Focus (XGtE)</name>
+                <name>Path of the Zealot: Fanatical Focus</name>
                 <text>Starting at 6th level, the divine power that fuels your rage can protect you. If you fail a saving throw while you’re raging, you can reroll it, and you must use the new roll. You can use this ability only once per rage.</text>
             </feature>
         </autolevel>
         <autolevel level="10">
             <feature optional="YES">
-                <name>Path of the Ancestral Guardian: Consult the Spirits (XGtE)</name>
+                <name>Path of the Ancestral Guardian: Consult the Spirits</name>
                 <text>At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the augury or clairvoyance spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of clairvoyance invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.</text>
                 <text>After you cast either spell in this way, you can’t use this feature again until you finish a short or long rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Path of the Storm Herald: Shielding Storm (XGtE)</name>
+                <name>Path of the Storm Herald: Shielding Storm</name>
                 <text>At 10th level, you learn to use your mastery of the storm to protect others. Each creature of your choice has the damage resistance you gained from the Storm Soul feature while the creature is in your Storm Aura.</text>
             </feature>
             <feature optional="YES">
-                <name>Path of the Zealot: Zealous Presence (XGtE)</name>
+                <name>Path of the Zealot: Zealous Presence</name>
                 <text>At 10th level, you learn to channel divine power to inspire zealotry in others. As a bonus action, you unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you that can hear you gain advantage on attack rolls and saving throws until the start of your next turn.</text>
                 <text>Once you use this feature, you can’t use it again until you finish a long rest.</text>
             </feature>
         </autolevel>
         <autolevel level="14">
             <feature optional="YES">
-                <name>Path of the Ancestral Guardian: Vengeful Ancestors (XGtE)</name>
+                <name>Path of the Ancestral Guardian: Vengeful Ancestors</name>
                 <text>At 14th level, your ancestral spirits grow powerful enough to retaliate. When you use your Spirit Shield to reduce the damage of an attack, the attacker takes an amount of force damage equal to the damage that your Spirit Shield prevents.</text>
             </feature>
             <feature optional="YES">
-                <name>Path of the Storm Herald: Raging Storm (XGtE)</name>
+                <name>Path of the Storm Herald: Raging Storm</name>
                 <text>At 14th level, the power of the storm you channel grows mightier, lashing out at your foes. The effect is based on the environment you chose for your Storm Aura. </text>
                 <text />
                 <text>Desert: Immediately after a creature in your aura hits you with an attack, you can use your reaction to force that creature to make a Dexterity saving throw. On a failed save, the creature takes fire damage equal to half your barbarian level.</text>
@@ -861,7 +861,7 @@
                 <text>Tundra: Whenever the effect of your Storm Aura is activated, you can choose one creature you can see in the aura. That creature must succeed on a Strength saving throw, or its speed is reduced to 0 until the start of your next turn, as magical frost covers it. </text>
             </feature>
             <feature optional="YES">
-                <name>Path of the Zealot: Rage Beyond Death (XGtE)</name>
+                <name>Path of the Zealot: Rage Beyond Death</name>
                 <text>Beginning at 14th level, the divine power that fuels your rage allows you to shrug off fatal blows.</text>
                 <text>While you’re raging, having 0 hit points doesn’t knock you unconscious. You still must make death saving throws, and you suffer the normal effects of taking damage while at 0 hit points. However, if you would die due to failing death saving throws, you don’t die until your rage ends, and you die then only if you still have 0 hit points.</text>
             </feature>
@@ -1151,154 +1151,115 @@
                 <text>At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.</text>
             </feature>
         </autolevel>
-        <!--Unearthed Arcana-->
         
+        <!--Xanathar's Guide To Everything-->
         <autolevel level="3">
             <feature optional="YES">
-                <name>Bard College: College of Swords (UA)</name>
-                <text>Bards of the College of Swords are called blades, and they entertain through daring feats of weapon prowess. Blades perform stunts such as sword swallowing, knife throwing and juggling, and mock combats. But though they use their weapons to entertain, they are also highly trained and skilled warriors in their own right.</text>
-                <text>Their talent with weapons inspires many blades to lead double lives. One blade might use a circus troupe as cover for nefarious deeds such as assassination, robbery, and blackmail. Other blades strike at the wicked, bringing justice to bear against the cruel and powerful. Most troupes are happy to accept a blade’s talent for the excitement it adds to a performance, but few entertainers fully trust them.</text>
-                <text>Blades who abandon lives as entertainers have often run into trouble that makes maintaining their secret activities impossible. A blade caught stealing or engaging in vigilante justice is too great a liability for most performer troupes. With their weapon skills as their greatest asset, these blades either take up work as enforcers for thieves’ guilds or strike out on their own as adventurers.</text>
-                <text />
-                <text>This Bard College is from Unearthed Arcana: Kits of Old, and as such may not be allowed in your game. Consult your DM before choosing this option.</text>
-            </feature>
-            <feature optional="YES">
-                <name>Bard College: College of Satire (UA)</name>
-                <text>Bards of the College of Satire are called jesters. They use lowbrow stories, daring acrobatics, and cutting jokes to entertain audiences, ranging from the crowds in a rundown dockside pub to the nobles of a king’s royal court. Where other bards seek forgotten lore or tales of epic bravery, jesters ferret out embarrassing and hilarious stories of all kinds. Whether telling the ribald tale of a brawny stable hand’s affair with an aged duchess or a mocking satire of a paladin of Helm’s cloying innocence, a jester never lets taste, social decorum, or shame get in the way of a good laugh.</text>
-                <text>While jesters are masters of puns, jokes, and verbal barbs, they are much more than just comic relief. They are expected to mock and provoke, taking advantage of how even the most powerful folk are expected by tradition to endure a jester’s barbs with good humor. This expectation allows a jester to serve as a critic or a voice of reason when others are too intimidated to speak the truth.</text>
-                <text>For the duchess with a taste for strapping young laborers, such tales might serve to warn the targets of her affections and force her to change her ways for lack of willing partners. Striking back at the jester only ruins her already damaged reputation, and might provide the best evidence that the jester’s satires have hit their mark. But if she is kind and generous to her conquests, the jokes and stories cast her as a kind of folk hero, while drawing even more potential partners to her.</text>
-                <text>Jesters are loyal to only one cause: the pursuit and propagation of the truth. They use their comedy and innocuous appearance to break down social barriers and expose corruption, incompetence, and stupidity among the rich and powerful. Whether revealing a con artist’s treachery or exposing a baron’s plans for war as driven by greed and bloodlust, a jester serves as the conscience of a realm.</text>
-                <text>Jesters adventure to safeguard the common folk and to undermine the plans of the rich, powerful, and arrogant. Their magic bolsters allies’ spirits while casting doubt into foes’ minds. Among bards, jesters are unmatched acrobats, and their ability to tumble, dodge, leap, and climb makes them slippery opponents in battle.</text>
-                <text />
-                <text>This Bard College is from Unearthed Arcana: Kits of Old, and as such may not be allowed in your game. Consult your DM before choosing this option.</text>
-            </feature>
-            <feature optional="YES">
-                <name>College of Satire: Bonus Proficiencies</name>
-                <text>When you join the College of Satire at 3rd level, you gain proficiency with thieves' tools. You also gain proficiency in Sleight of Hand and one additional skill of your choice. If you are already proficient with thieves' tools or in Sleight of Hand, choose another skill proficiency for each proficiency you already have.</text>
-            </feature>
-            <feature optional="YES">
-                <name>College of Satire: Tumbling Fool</name>
-                <text>At 3rd level, you master a variety of acrobatic techniques that allow you to evade danger. As a bonus action, you can tumble. When you tumble, you gain the following benefits for the rest of your turn:</text>
-                <text />
-                <text>• You gain the benefits of taking the Dash and Disengage actions.</text>
-                <text />
-                <text>• You gain a climbing speed equal to your current speed.</text>
-                <text />
-                <text>• You take half damage from falling.</text>
+                <name>Bard College: College of Swords (XGtE)</name>
+                <text>Bards of the College of Swords are called blades, and they entertain through daring feats of weapon prowess. Blades perform stunts such as sword swallowing, knife throwing and juggling, and mock combats. Though they use their weapons to entertain, they are also highly trained and skilled warriors in their own right.</text>
+                <text>Their talent with weapons inspires many blades to lead double lives. One blade might use a circus troupe as cover for nefarious deeds such as assassination, robbery, and blackmail. Other blades strike at the wicked, bringing justice to bear against the cruel and powerful. Most troupes are happy to accept a blade’s talent for the excitement it adds to a performance, but few entertainers fully trust a blade in their ranks.</text>
+                <text>Blades who abandon their lives as entertainers have often run into trouble that makes maintaining their secret activities impossible. A blade caught stealing or engaging in vigilante justice is too great a liability for most troupes. With their weapon skills and magic, these blades either take up work as enforcers for thieves’ guilds or strike out on their own as adventurers.</text>
             </feature>
             <feature optional="YES">
                 <name>College of Swords: Bonus Proficiencies</name>
-                <text>When you join the College of Blades at 3rd level, you gain proficiency with medium armor and with scimitars.</text>
+                <text>When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the scimitar.</text>
+                <text>If you’re proficient with a simple or martial melee weapon, you can use it as a spellcasting focus for your bard spells.</text>
             </feature>
             <feature optional="YES">
                 <name>College of Swords: Fighting Style</name>
-                <text>The College of Blades emphasizes mastery with weapons, granting you access to the two-weapon fighting option for the Fighting Style class feature, which is as follows.</text>
-                <text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</text>
+                <text>At 3rd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if something in the game lets you choose again.</text>
+                <text>Dueling. When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</text>
+                <text>Two-Weapon Fighting. When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</text>
             </feature>
             <feature optional="YES">
                 <name>College of Swords: Blade Flourish</name>
-                <text>At 3rd level, you learn to conduct impressive displays of skill with your weapons. When you use the Attack action on your turn and attack with a dagger, longsword, rapier, scimitar, or shortsword, you can attempt one of the following flourishes.</text>
+                <text>At 3rd level, you learn to perform impressive displays of martial prowess and speed.</text>
+                <text>Whenever you take the Attack action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. You can use only one Blade Flourish option per turn.</text>
                 <text />
-                <text>	Defensive Flourish:</text>
-                <text>You spin your weapon around you in swift circles, creating a hypnotic display. As a bonus action, you expend one use of Bardic Inspiration, rolling a Bardic Inspiration die and applying the number rolled as a bonus to your AC until the start of your next turn.</text>
+                <text>Defensive Flourish: You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You also add the number rolled to your AC until the start of your next turn.</text>
                 <text />
-                <text>	Trick Shooter's Flourish:</text>
-                <text>This favorite trick of knife throwers allows you to expend one use of Bardic Inspiration as a bonus action. Roll a Bardic Inspiration die and apply the number rolled as a bonus to the next ranged attack roll you make with a dagger this turn. If the target of the attack is an unattended, inanimate object, the bonus equals double the die roll.</text>
+                <text>Slashing Flourish: You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit and to any other creature of your choice that you can see within 5 feet of you. The damage equals the number you roll on the Bardic Inspiration die.</text>
                 <text />
-                <text>	Unnerving Flourish:</text>
-                <text>Your deadly display of combat prowess unnerves your opponents, leaving them cowering in fear and at your mercy. Whenever you reduce a creature to 0 hit points with a melee attack, you can use a bonus action to expend one use of Bardic Inspiration, and instead leave the creature at 1 hit point.</text>
-                <text>The creature is frightened of you for a number of minutes equal to your Charisma modifier. It must also make a Charisma saving throw with a DC equal to your spellcasting DC + a bonus equal to the roll of your Bardic Inspiration die. If the creature fails this saving throw, it answers truthfully any questions you ask it and obeys your direct orders while it is frightened by this effect.</text>
+                <text>Mobile Flourish: You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You can also push the target up to 5 feet away from you, plus a number of feet equal to the number you roll on that die. You can then immediately use your reaction to move up to your walking speed to an unoccupied space within 5 feet of the target.</text>
             </feature>
             <feature optional="YES">
-                <name>Bard College: College of Glamour (UA)</name>
-                <text>The College of Glamour is open to those bards who mastered their craft in the vibrant, deadly realm of the Feywild. Tutored by satyrs, eladrin, and other fey, these bards learn to use their magic to delight and captivate others. </text>
-                <text>	The bards of this college are regarded with a mixture of awe and fear. Their performances are the stuff of legend. The bards of this college are so eloquent that a speech or song that one of them performs can cause captors to release the bard unharmed and can lull a furious dragon into complacency. The same magic that allows them to quell beasts can also bend minds. Villainous bards of this college can leech off a community for weeks, abusing their magic to turn their hosts into thralls.</text>
-                <text />
-                <text>This Bard College is from Unearthed Arcana: Bard Colleges, and as such may not be allowed in your game. Consult your DM before choosing this option.</text>
+                <name>Bard College: College of Glamour (XGtE)</name>
+                <text>The College of Glamour is the home of bards who mastered their craft in the vibrant realm of the Feywild or under the tutelage of someone who dwelled there. Tutored by satyrs, eladrin, and other fey, these bards learn to use their magic to delight and captivate others.</text>
+                <text>The bards of this college are regarded with a mixture of awe and fear. Their performances are the stuff of legend. These bards are so eloquent that a speech or song that one of them performs can cause captors to release the bard unharmed and can lull a furious dragon into complacency. The same magic that allows them to quell beasts can also bend minds. Villainous bards of this college can leech off a community for weeks, misusing their magic to turn their hosts into thralls. Heroic bards of this college instead use this power to gladden the downtrodden and undermine oppressors.</text>
             </feature>
             <feature optional="YES">
                 <name>College of Glamour: Mantle of Inspiration</name>
-                <text>When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that enthralls your allies with vigor and speed. </text>
-                <text>	As a bonus action, you can expend a use of Bardic Inspiration to grant yourself a wondrous, otherworldly appearance. When you do so, choose a number of allies you can see and who can see you within 60 feet of you, up to a number of them equal to your Charisma modifier (minimum of one). Each target gains 2d6 temporary hit points. </text>
-                <text>	When a target gains these temporary hit points, it can also use its reaction to move up to its speed toward you, without provoking opportunity attacks. It must take the shortest, safest path to you. </text>
-                <text>	The number of temporary hit points increases when you reach certain levels in this class, increasing to 2d8 at 5th level, 2d10 at 10th level, and 2d12 at 15th level.</text>
+                <text>When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that imbues your allies with vigor and speed.</text>
+                <text>As a bonus action, you can expend one use of your Bardic Inspiration to grant yourself a wondrous appearance. When you do so, choose a number of creatures you can see and that can see you within 60 feet of you, up to a number equal to your Charisma modifier (minimum of one). Each of them gains 5 temporary hit points. When a creature gains these temporary hit points, it can immediately use its reaction to move up to its speed, without provoking opportunity attacks.</text>
+                <text>The number of temporary hit points increases when you reach certain levels in this class, increasing to 8 at 5th level, 11 at 10th level, and 14 at 15th level.</text>
             </feature>
             <feature optional="YES">
                 <name>College of Glamour: Enthralling Performance</name>
-                <text>Starting at 3rd level, you can charge your performance with seductive fey magic. </text>
-                <text>	If you perform for at least 10 minutes, you can attempt to inspire wonder in your audience by singing, reciting a poem, or dancing. At the end of the performance, choose a number of humanoids within 60 feet of you who watched and listened to all of it, up to a number of them equal to your Charisma modifier (minimum of one). Each target must succeed on a Wisdom saving throw against your spell save DC or be charmed by you. While charmed in this way, the target idolizes you, it speaks glowingly of you to anyone who speaks to it, and it hinders anyone who opposes you, avoiding violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies. </text>
-                <text>	If a target succeeds on its save against this effect, the target has no hint that you tried to charm it. </text>
-                <text>	Once you use this feature, you can't use it again until you finish a short or long rest.</text>
+                <text>Starting at 3rd level, you can charge your performance with seductive, fey magic.</text>
+                <text>If you perform for at least 1 minute, you can attempt to inspire wonder in your audience by singing, reciting a poem, or dancing. At the end of the performance, choose a number of humanoids within 60 feet of you who watched and listened to all of it, up to a number equal to your Charisma modifier (minimum of one). Each target must succeed on a Wisdom saving throw against your spell save DC or be charmed by you. While charmed in this way, the target idolizes you, it speaks glowingly of you to anyone who talks to it, and it hinders anyone who opposes you, although it avoids violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies.</text>
+                <text>If a target succeeds on its saving throw, the target has no hint that you tried to charm it.</text>
+                <text>Once you use this feature, you can’t use it again until you finish a short or long rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Bard College: College of Whispers (UA)</name>
-                <text>Most folk are happy to welcome a bard into their midst. Bards of the College of Whispers use this to their advantage. They appear to be like any other bard, sharing news, singing songs, and telling tales to the audiences they gather. In truth, the College of Whispers teaches its students that they are wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats. </text>
-                <text>	Many other bards hate the College of Whispers, viewing it as a parasite that uses the bards' reputation to acquire wealth and power. For this reason, these bards rarely reveal their true nature unless they must. They typically claim to follow some other college, or keep their true nature secret in order to better infiltrate and exploit royal courts and other settings of power.</text>
-                <text />
-                <text>This Bard College is from Unearthed Arcana: Bard Colleges, and as such may not be allowed in your game. Consult your DM before choosing this option.</text>
+                <name>Bard College: College of Whispers (XGtE)</name>
+                <text>Most folk are happy to welcome a bard into their midst. Bards of the College of Whispers use this to their advantage. They appear to be like other bards, sharing news, singing songs, and telling tales to the audiences they gather. In truth, the College of Whispers teaches its students that they are wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats.</text>
+                <text>Many other bards hate the College of Whispers, viewing it as a parasite that uses a bard’s reputation to acquire wealth and power. For this reason, members of this college rarely reveal their true nature. They typically claim to follow some other college, or they keep their actual calling secret in order to infiltrate and exploit royal courts and other settings of power.</text>
             </feature>
             <feature optional="YES">
-                <name>College of Whispers: Venomous Blades</name>
-                <text>When you join the College of Whispers at 3rd level, you gain the ability to magically make your weapon attacks toxic for a moment. </text>
-                <text>	When you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an additional 2d6 poison damage to that target. You can do so only once per round on your turn. </text>
-                <text>	The additional damage increases when you reach certain levels in this class, increasing to 2d8 at 5th level, 2d10 at 10th level, and 2d12 at 15th level.</text>
+                <name>College of Whispers: Psychic Blades</name>
+                <text>When you join the College of Whispers at 3rd level, you gain the ability to make your weapon attacks magically toxic to a creature’s mind.</text>
+                <text>When you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an extra 2d6 psychic damage to that target. You can do so only once per round on your turn.</text>
+                <text>The psychic damage increases when you reach certain levels in this class, increasing to 3d6 at 5th level, 5d6 at 10th level, and 8d6 at 15th level.</text>
             </feature>
             <feature optional="YES">
-                <name>College of Whispers: Venomous Words</name>
-                <text>At 3rd level, you learn to infuse innocent-seeming words with an insidious magic. A creature that hears you speak can become plunged into fear and paranoia. </text>
-                <text>	If you speak to a humanoid alone for at least 10 minutes, you can attempt to seed paranoia and fear into its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against your spell save DC or be frightened for the next hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged. While frightened in this way, the target is paranoid and tries to avoid the company of others, including its allies. The target seeks out what it considers the safest, most secret place available to it and hides there. </text>
-                <text>	If the target succeeds on its save, the target has no hint that you tried to frighten it. </text>
-                <text>	Once you use this feature, you can't use it again until you finish a short rest or long rest.</text>
+                <name>College of Whispers: Words of Terror</name>
+                <text>At 3rd level, you learn to infuse innocent-seeming words with an insidious magic that can inspire terror.</text>
+                <text>If you speak to a humanoid alone for at least 1 minute, you can attempt to seed paranoia in its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against your spell save DC or be frightened of you or another creature of your choice. The target is frightened in this way for 1 hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged.</text>
+                <text>If the target succeeds on its saving throw, the target has no hint that you tried to frighten it.</text>
+                <text>Once you use this feature, you can’t use it again until you finish a short or long rest.</text>
             </feature>
         </autolevel>
+        
         <autolevel level="6">
             <feature optional="YES">
-                <name>College of Satire: Fool's Insight</name>
-                <text>At 6th level, your ability to gather stories and lore gains a supernatural edge. You can cast detect thoughts up to a number of times equal to your Charisma modifier. You regain any expended uses of this ability after completing a long rest.</text>
-                <text>	If a creature resists your attempt to probe deeper and succeeds at its saving throw against your detect thoughts, it immediately suffers an embarrassing social gaffe. It might loudly pass gas, unleash a thunderous burp, trip and fall, or be compelled to tell a tasteless joke.</text>
-            </feature>
-            <feature optional="YES">
                 <name>College of Swords: Extra Attack</name>
-                <text>Beginning at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
+                <text>Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</text>
             </feature>
             <feature optional="YES">
                 <name>College of Glamour: Mantle of Majesty</name>
-                <text>At 6th level, you gain the ability to cloak yourself in a fey magic that makes others want to serve you. As a bonus action, you take on an appearance of unearthly beauty for 1 minute. During this time, you can cast command as a bonus action on each of your turns, without using a spell slot. This effect lasts for 1 minute, and any creature charmed by you automatically fails its saving throw against the spell. </text>
-                <text>	Once you use this feature, you can't use it again until you finish a long rest.</text>
+                <text>At 6th level, you gain the ability to cloak yourself in a fey magic that makes others want to serve you. As a bonus action, you cast command, without expending a spell slot, and you take on an appearance of unearthly beauty for 1 minute or until your concentration ends (as if you were concentrating on a spell). During this time, you can cast command as a bonus action on each of your turns, without expending a spell slot.</text>
+                <text>Any creature charmed by you automatically fails its saving throw against the command you cast with this feature.</text>
+                <text>Once you use this feature, you can’t use it again until you finish a long rest.</text>
             </feature>
             <feature optional="YES">
                 <name>College of Whispers: Mantle of Whispers</name>
-                <text>At 6th level, you gain the ability to adopt a creature's persona. When you slay a creature with an attack or a spell or a creature dies within 5 feet of you, you can magically capture its shadow using your reaction. You can capture only the shadow of a creature that is your creature type, such as humanoid, and your size (you can capture a Small or Medium shadow if you're Small), and you can have only one shadow captured at a time. </text>
-                <text>	After you capture a creature's shadow, you can use your magic to weave it into a disguise that allows you to take on its appearance and gain access to its surface memories. As an action, you take on the creature's appearance for 1 hour or until you end this effect as a bonus action. </text>
-                <text>	During that hour, you gain access to all information that the creature would freely share with a casual acquaintance. Information includes general details on its background and personal life, but does not include secrets. The information is enough that you can pass yourself off as the creature by drawing on its memories. </text>
-                <text>	Another creature can see through this disguise by making a Wisdom (Insight) check opposed by your Charisma (Deception) check, though you gain a +5 bonus to your check.</text>
-                <text>	The disguise and the knowledge it grants disappears when this ability's duration ends</text>
+                <text>At 6th level, you gain the ability to adopt a humanoid’s persona. When a humanoid dies within 30 feet of you, you can magically capture its shadow using your reaction. You retain this shadow until you use it or you finish a long rest.</text>
+                <text>You can use the shadow as an action. When you do so, it vanishes, magically transforming into a disguise that appears on you. You now look like the dead person, but healthy and alive. This disguise lasts for 1 hour or until you end it as a bonus action.</text>
+                <text>While you’re in the disguise, you gain access to all information that the humanoid would freely share with a casual acquaintance. Such information includes general details on its background and personal life, but doesn’t include secrets. The information is enough that you can pass yourself off as the person by drawing on its memories.</text>
+                <text>Another creature can see through this disguise by succeeding on a Wisdom (Insight) check contested by your Charisma (Deception) check. You gain a +5 bonus to your check.</text>
+                <text>Once you capture a shadow with this feature, you can’t capture another one with it until you finish a short or long rest.</text>
             </feature>
         </autolevel>
+        
         <autolevel level="14">
             <feature optional="YES">
-                <name>College of Satire: Fool's Luck </name>
-                <text>Jesters seem to have a knack for pulling themselves out of tight situations, transforming what looks like sure failure into an embarrassing but effective success.</text>
-                <text>	At 14th level, you can expend one use of Bardic Inspiration after you fail an ability check, fail a saving throw, or miss with an attack roll. Roll a Bardic Inspiration die and add the number rolled to your attack, saving throw, or ability check, using the new result in place of the failed one.</text>
-                <text>	If using this ability grants you a success on the attack, saving throw, or ability check, note the number you rolled on the Bardic Inspiration die. The DM can then apply that result as a penalty to an attack or check you make, and you cannot use this ability again until you suffer this drawback. When the DM invokes this penalty, describe an embarrassing gaffe or mistake you make as part of the affected die roll.</text>
-            </feature>
-            <feature optional="YES">
-                <name>College of Swords: Battle Magic</name>
-                <text>At 14th level, you have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast a bard spell, you can make one weapon attack as a bonus action.</text>
+                <name>College of Swords: Master’s Flourish</name>
+                <text>Starting at 14th level, whenever you use a Blade Flourish option, you can roll a d6 and use it instead of expending a Bardic Inspiration die.</text>
             </feature>
             <feature optional="YES">
                 <name>College of Glamour: Unbreakable Majesty</name>
-                <text>At 14th level, you gain an otherworldly aspect to your appearance that makes you look more fierce and lovely. </text>
-                <text>	In addition, through this feature, you can cast sanctuary on yourself. If a creature fails its saving throw against the spell, you also gain advantage on all Charisma checks against the creature for 1 minute, and it has disadvantage on any saving throw it makes against your spells on your next turn. </text>
-                <text>	Once you cast sanctuary using this feature, you can't do so again until you finish a short or long rest.</text>
+                <text>At 14th level, your appearance permanently gains an otherworldly aspect that makes you look more lovely and fierce.</text>
+                <text>In addition, as a bonus action, you can assume a magically majestic presence for 1 minute or until you are incapacitated. For the duration, whenever any creature tries to attack you for the first time on a turn, the attacker must make a Charisma saving throw against your spell save DC. On a failed save, it can’t attack you on this turn, and it must choose a new target for its attack or the attack is wasted. On a successful save, it can attack you on this turn, but it has disadvantage on any saving throw it makes against your spells on your next turn.</text>
+                <text>Once you assume this majestic presence, you can’t do so again until you finish a short or long rest.</text>
             </feature>
             <feature optional="YES">
                 <name>College of Whispers: Shadow Lore</name>
-                <text>At 14th level, you gain the ability to weave dark magic into your words and tap into a creature's deepest fears. </text>
-                <text>	As an action, you magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn't share a language with you or if it can't hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect. </text>
-                <text>	If the target fails its saving throw, it is charmed by you for the next 8 hours or until you or your allies attack or damage it. It interprets the whispers as a description of its most mortifying secret. While you gain no knowledge of this secret, the target is convinced you know it. </text>
-                <text>	While charmed in this way, the creature obeys your commands for fear that you will reveal its secret. It won't risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend. </text>
-                <text>	When the effect ends, the creature has no understanding of why it held you in such fear. Once you use this feature, you can't use it again until you finish a long rest.</text>
+                <text>At 14th level, you gain the ability to weave dark magic into your words and tap into a creature’s deepest fears.</text>
+                <text>As an action, you magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn’t share a language with you or if it can’t hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.</text>
+                <text>On a failed saving throw, the target is charmed by you for the next 8 hours or until you or your allies attack it, damage it, or force it to make a saving throw. It interprets the whispers as a description of its most mortifying secret. You gain no knowledge of this secret, but the target is convinced you know it.</text>
+                <text>The charmed creature obeys your commands for fear that you will reveal its secret. It won’t risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend.</text>
+                <text>When the effect ends, the creature has no understanding of why it held you in such fear.</text>
+                <text>Once you use this feature, you can’t use it again until you finish a long rest.</text>
             </feature>
         </autolevel>
     </class>
@@ -2269,7 +2230,7 @@
                 <text>Druids who are members of the Circle of Dreams hail from regions that have strong ties to the Feywild and its dreamlike realms. The druids’ guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with dreamy wonder. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places, where dream and reality blur together and where the weary can find rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Circle of Dreams: Balm of the Summer Court (XGtE)</name>
+                <name>Circle of Dreams: Balm of the Summer Court</name>
                 <text>At 2nd level, you become imbued with the blessings of the Summer Court. You are a font of energy that offers respite from injuries. You have a pool of fey energy represented by a number of C168 equal to your druid level.</text>
                 <text>As a bonus action, you can choose one creature you can see within 120 feet of you and spend a number of l those dice equal to half your druid level or less. Roll the spent dice and add them together. The target regains a number of hit points equal to the total. The target also gains 1 temporary hit point per die spent.</text>
                 <text>You regain all expended dice when you finish a long rest.</text>
@@ -2280,12 +2241,12 @@
                 <text>Members of this circle become adventurers to oppose forces that threaten their charges or to seek knowledge and power that will help them safeguard their charges better. Wherever these druids go, the spirits of the wilderness are with them.</text>
             </feature>
             <feature optional="YES">
-                <name>Circle of the Shepherd: Speech of The Woods (XGtE)</name>
+                <name>Circle of the Shepherd: Speech of The Woods</name>
                 <text>At 2nd level, you gain the ability to converse with beasts and many fey.</text>
                 <text>You learn to speak, read, and write Sylvan. In addition, beasts can understand your speech, and you gain the ability to decipher their noises and motions. Most beasts lack the intelligence to convey or understand sophisticated concepts, but a friendly beast could relay what it has seen or heard in the recent past. This ability doesn’t grant you friendship with beasts, though you can combine this ability with gifts to curry favor with them as you would with any nonplayer character.</text>
             </feature>
             <feature optional="YES">
-                <name>Circle of the Shepherd: Spirit Totem (XGtE)</name>
+                <name>Circle of the Shepherd: Spirit Totem</name>
                 <text>Starting at 2nd level, you can call forth nature spirits to influence the world around you. As a bonus action, you can magically summon an incorporeal spirit to a point you can see within 60 feet of you. The spirit creates an aura in a 30-foot radius around that point. It counts as neither a creature nor an object, though it has the spectral appearance of the creature it represents.</text>
                 <text>As a bonus action, you can move the spirit up to 60 feet to a point you can see.</text>
                 <text>The spirit persists for 1 minute or until you’re incapacitated. Once you use this feature, you can’t use it again until you finish a short or long rest.</text>
@@ -2301,13 +2262,13 @@
         
         <autolevel level="6">
             <feature optional="YES">
-                <name>Circle of Dreams: Hearth of Moonlight and Shadow (XGtE)</name>
+                <name>Circle of Dreams: Hearth of Moonlight and Shadow</name>
                 <text>At 6th level, home can be wherever you are. During a short or long rest, you can invoke the shadowy power of the Gleaming Court to help guard your respite. At the start of the rest, you touch a point in space, and an invisible, 30-foot—radius sphere of magic appears, centered on that point. Total cover blocks the sphere.</text>
                 <text>While within the sphere, you and your allies gain a +5 bonus to Dexterity (Stealth) and Wisdom (Perception) checks, and any light from open flames in the sphere (a l campfire, torches, or the like) isn’t visible outside it.</text>
                 <text>The sphere vanishes at the end of the rest or when you leave the sphere.</text>
             </feature>
             <feature optional="YES">
-                <name>Circle of the Shepherd: Mighty Summoner (XGtE)</name>
+                <name>Circle of the Shepherd: Mighty Summoner</name>
                 <text>Starting at 6th level, beasts and fey that you conjure are more resilient than normal. Any beast or fey summoned or created by a spell that you cast gains the following benefits:</text>
                 <text />
                 <text>• The creature appears with more hit points than normal: 2 extra hit points per Hit Die it has.</text>
@@ -2317,25 +2278,25 @@
         
         <autolevel level="10">
             <feature optional="YES">
-                <name>Circle of Dreams: Hidden Paths (XGtE)</name>
+                <name>Circle of Dreams: Hidden Paths</name>
                 <text>Starting at 10th level, you can use the hidden, magical pathways that some fey use to traverse space in the blink of an eye. As a bonus action on your turn, you can teleport up to 60 feet to an unoccupied space you can see. Alternatively, you can use your action to teleport one willing creature you touch up to 30 feet to an unoccupied space you can see.</text>
                 <text>You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Circle of the Shepherd: Guardian Spirit (XGtE)</name>
+                <name>Circle of the Shepherd: Guardian Spirit</name>
                 <text>Beginning at 10th level, your Spirit Totem safeguards the beasts and fey that you call forth with your magic. When a beast or fey that you summoned or created with a spell ends its turn in your Spirit Totem aura, that creature regains a number of hit points equal to half your druid level.</text>
             </feature>
         </autolevel>
         
         <autolevel level="14">
             <feature optional="YES">
-                <name>Circle of Dreams: Walker in Dreams (XGtE)</name>
+                <name>Circle of Dreams: Walker in Dreams</name>
                 <text>When you finish a short rest, you can cast one of the following spells, without expending a spell slot or re- quiring material components: dream (with you as the messenger), scrying, or teleportation circle.</text>
                 <text>This use of teleportation circle is special. Rather than opening a portal to a permanent teleportation circle, it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven*t taken a long rest on your current plane, the spell fails but isn’t wasted.</text>
                 <text>Once you use this feature, you can’t use it again until you finish a long rest.</text>
             </feature>
             <feature optional="YES">
-                <name>Circle of the Shepherd: Faithful Summons (XGtE)</name>
+                <name>Circle of the Shepherd: Faithful Summons</name>
                 <text>Starting at 14th level, the nature spirits you commune with protect you when you are the most defenseless. If you are reduced to 0 hit points or are incapacitated against your will, you can immediately gain the benefits of conjure animals as if it were cast using a 9th-level spell slot. It summons four beasts of your choice that are challenge rating 2 or lower. The conjured beasts appear within 20 feet of you. If they receive no commands from you, they protect you from harm and attack your foes. The spell lasts for 1 hour, requiring no concentration, or until you dismiss it (no action required).</text>
                 <text>Once you use this feature, you can’t use it again until you finish a long rest.</text>
             </feature>
